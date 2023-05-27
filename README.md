@@ -1,1 +1,3 @@
-# P08-DNA-Transcription
+# P08 DNA Transcription
+Bioinformatics is the project of computer science techniques to biological problems. In the following project, a linked queue structure was used to simulate the process of DNA transcription. We’re not interested in the classical double-helix structure here; we just represented what’s called the primary structure of the DNA, its nucleotide sequence - the ACGT letters you may have seen before. From there, we translated to a complementary mRNA sequence, and then take those mRNA sequences
+and group them into threes to find the final amino acid sequence that will become a protein.
